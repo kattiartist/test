@@ -1,0 +1,40 @@
+{
+  "layout": {
+    "col-number": {
+      "xl": {
+        "value": "12",
+        "type": "number"
+      }
+    },
+    "gutter": {
+      "xl": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "margin-horizontal": {
+      "xl": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "content-compensation": {
+      "xl": {
+        "value": "{spacing.250}",
+        "type": "number"
+      }
+    },
+    "has-sidebar": {
+      "xl": {
+        "value": "true",
+        "type": "boolean"
+      }
+    },
+    "sidebar-width": {
+      "xl": {
+        "value": 265,
+        "type": "number"
+      }
+    }
+  }
+}

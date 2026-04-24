@@ -1,0 +1,26 @@
+{
+  "radio": {
+    "500": {
+      "frame": {
+        "size": {
+          "value": "{selection-control.500.frame.size}",
+          "type": "number"
+        },
+        "border-width": {
+          "value": "{control-contained.500.frame.border-width}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "999",
+          "type": "number"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{selection-control.300.icon.size}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
