@@ -1,11 +1,11 @@
-# Clickio Design System
+# Design System
 
-Полная копия дизайн-системы test-project для платформы Clickio.
+Полная копия дизайн-системы test-project.
 
 ## 📁 Структура проекта
 
 ```
-clickio/
+project/
 ├── $metadata.json         # Порядок токенов
 ├── $themes.json          # Темы оформления
 ├── common/               # Общие токены
@@ -64,4 +64,4 @@ clickio/
 
 ---
 
-Готова к интеграции с платформой Clickio! 🚀
+Готова к интеграции! 🚀
