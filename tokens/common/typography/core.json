@@ -2,11 +2,11 @@
   "typography": {
     "font": {
       "brand": {
-        "value": "Inter",
+        "value": "Roboto",
         "type": "text"
       },
       "text": {
-        "value": "Inter",
+        "value": "Roboto",
         "type": "text"
       }
     },
