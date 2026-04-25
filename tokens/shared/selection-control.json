@@ -7,7 +7,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.50}",
+          "value": "{radius.150}",
           "type": "number"
         },
         "border-width": {
@@ -29,7 +29,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.50}",
+          "value": "{radius.150}",
           "type": "number"
         },
         "border-width": {
@@ -51,7 +51,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.100}",
+          "value": "{radius.150}",
           "type": "number"
         },
         "border-width": {
@@ -73,7 +73,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.999}",
+          "value": "{radius.150}",
           "type": "number"
         },
         "border-width": {
