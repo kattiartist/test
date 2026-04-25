@@ -39,6 +39,10 @@
     "negative-secondary": {
       "value": "{fire.200}",
       "type": "color"
+    },
+    "static-light-primary": {
+      "value": "{ground.0}",
+      "type": "color"
     }
   },
   "background": {
