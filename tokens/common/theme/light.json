@@ -34,11 +34,11 @@
     }
   },
   "background": {
-    "brand.bright": {
+    "brand-bright": {
       "value": "{canyon.400}",
       "type": "color"
     },
-    "neutral.bright": {
+    "neutral-bright": {
       "value": "{ground.600}",
       "type": "color"
     },
