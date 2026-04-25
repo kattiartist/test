@@ -75,7 +75,7 @@
       "type": "color"
     },
     "static-dark-high": {
-      "value": "{ground.700}",
+      "value": "{ground.999}",
       "type": "color"
     }
   },
