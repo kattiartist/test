@@ -16,6 +16,14 @@
       "value": "{forest.400}",
       "type": "color"
     },
+    "brand-primary": {
+      "value": "{canyon.400}",
+      "type": "color"
+   },
+    "brand-secondary": {
+      "value": "{canyon.500}",
+      "type": "color"
+    },
     "positive-secondary": {
       "value": "{forest.200}",
       "type": "color"
