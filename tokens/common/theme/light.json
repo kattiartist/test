@@ -125,6 +125,14 @@
     "negative-primary": {
       "value": "{fire.400}",
       "type": "color"
+    },
+    "brand-primary": {
+      "value": "{canyon.400}",
+      "type": "color"
+   },
+    "brand-secondary": {
+      "value": "{canyon.500}",
+      "type": "color"
     }
   },
   "layer": {
