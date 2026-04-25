@@ -21,10 +21,6 @@
       "type": "color"
     },
     "warning-primary": {
-      "value": "{sand.600}",
-      "type": "color"
-    },
-    "warning-secondary": {
       "value": "{sun.400}",
       "type": "color"
     },
