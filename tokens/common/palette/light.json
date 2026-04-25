@@ -35,31 +35,31 @@
   },
   "volcano": {
     "100": {
-      "value": "#F2F3F6",
+      "value": "#D7E8F3",
       "type": "color"
     },
     "200": {
-      "value": "#DFE2EA",
+      "value": "#ABCBDF",
       "type": "color"
     },
     "300": {
-      "value": "#C1C4CE",
+      "value": "#71A1BE",
       "type": "color"
     },
     "400": {
-      "value": "#737B90",
+      "value": "#28668D",
       "type": "color"
     },
     "500": {
-      "value": "#565B71",
+      "value": "#0E3D59",
       "type": "color"
     },
     "600": {
-      "value": "#393C55",
+      "value": "#083048",
       "type": "color"
     },
     "700": {
-      "value": "#282A3C",
+      "value": "#031E2E",
       "type": "color"
     }
   },
