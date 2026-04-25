@@ -103,6 +103,10 @@
     "negative": {
       "value": "rgba(255,20,0,0.1)",
       "type": "color"
+    },
+    "brand": {
+      "value": "rgba(254,102,1,0.2)",
+      "type": "color"
     }
   },
   "border": {
