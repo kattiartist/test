@@ -69,6 +69,14 @@
     "negative-pale": {
       "value": "{fire.100}",
       "type": "color"
+    },
+    "static-light-high": {
+      "value": "{ground.0}",
+      "type": "color"
+    },
+    "static-dark-high": {
+      "value": "{ground.700}",
+      "type": "color"
     }
   },
   "overlay": {
