@@ -9,7 +9,7 @@
       "type": "color"
     },
     "tertiary": {
-      "value": "{ground.200}",
+      "value": "{ground.400}",
       "type": "color"
     },
     "positive-primary": {
