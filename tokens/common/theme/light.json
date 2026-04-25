@@ -119,6 +119,10 @@
       "type": "color"
     },
     "neutral-secondary": {
+      "value": "{ground.300}",
+      "type": "color"
+    },
+    "neutral-tertiary": {
       "value": "{ground.200}",
       "type": "color"
     },
