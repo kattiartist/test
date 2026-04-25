@@ -35,14 +35,6 @@
     "content-compensation": {
       "value": "{layout.content-compensation.xl}",
       "type": "number"
-    },
-    "has-sidebar": {
-      "value": "{layout.has-sidebar.xl}",
-      "type": "boolean"
-    },
-    "sidebar-width": {
-      "value": "{layout.sidebar-width.xl}",
-      "type": "number"
     }
   }
 }
