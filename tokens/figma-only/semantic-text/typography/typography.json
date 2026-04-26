@@ -112,6 +112,34 @@
         "type": "typography"
       }
     },
+    "Header XS": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.semi-bold}",
+          "fontSize": "{typography.font-size.500}",
+          "lineHeight": "{typography.line-height.default.500}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.bold}",
+          "fontSize": "{typography.font-size.500}",
+          "lineHeight": "{typography.line-height.default.500}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
     "Paragraph XL": {
       "default": {
         "value": {
