@@ -134,6 +134,10 @@
       "value": "{ground.600}",
       "type": "color"
     },
+    "primary": {
+      "value": "{volcano.700}",
+      "type": "color"
+    },
     "neutral-secondary": {
       "value": "{ground.300}",
       "type": "color"
