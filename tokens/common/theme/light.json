@@ -21,6 +21,10 @@
       "type": "color"
    },
     "brand-secondary": {
+      "value": "{canyon.400}",
+      "type": "color"
+  },
+    "brand-tertiary": {
       "value": "{canyon.500}",
       "type": "color"
     },
@@ -155,6 +159,10 @@
       "type": "color"
    },
     "brand-secondary": {
+      "value": "{canyon.400}",
+      "type": "color"
+   },
+    "brand-tertiary": {
       "value": "{canyon.500}",
       "type": "color"
     }
