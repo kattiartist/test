@@ -142,90 +142,6 @@
         "type": "typography"
       }
     },
-    "Header XXS": {
-      "default": {
-        "value": {
-          "fontFamily": "{typography.font.brand}",
-          "fontWeight": "{typography.font-weight.brand.semi-bold}",
-          "fontSize": "{typography.font-size.600}",
-          "lineHeight": "{typography.line-height.default.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.0}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{typography.font.brand}",
-          "fontWeight": "{typography.font-weight.brand.bold}",
-          "fontSize": "{typography.font-size.600}",
-          "lineHeight": "{typography.line-height.default.600}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.0}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "Header XXXS": {
-      "default": {
-        "value": {
-          "fontFamily": "{typography.font.brand}",
-          "fontWeight": "{typography.font-weight.brand.semi-bold}",
-          "fontSize": "{typography.font-size.550}",
-          "lineHeight": "{typography.line-height.default.550}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.0}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{typography.font.brand}",
-          "fontWeight": "{typography.font-weight.brand.bold}",
-          "fontSize": "{typography.font-size.550}",
-          "lineHeight": "{typography.line-height.default.550}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.0}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "Header XXXXS": {
-      "default": {
-        "value": {
-          "fontFamily": "{typography.font.brand}",
-          "fontWeight": "{typography.font-weight.brand.semi-bold}",
-          "fontSize": "{typography.font-size.500}",
-          "lineHeight": "{typography.line-height.default.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.0}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{typography.font.brand}",
-          "fontWeight": "{typography.font-weight.brand.bold}",
-          "fontSize": "{typography.font-size.500}",
-          "lineHeight": "{typography.line-height.default.500}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.0}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
     "Paragraph XL": {
       "default": {
         "value": {
@@ -332,34 +248,6 @@
           "lineHeight": "{typography.line-height.default.300}",
           "letterSpacing": 0,
           "paragraphSpacing": "{typography.paragraph-spacing.300}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "Paragraph S": {
-      "default": {
-        "value": {
-          "fontFamily": "{typography.font.text}",
-          "fontWeight": "{typography.font-weight.text.regular}",
-          "fontSize": "{typography.font-size.250}",
-          "lineHeight": "{typography.line-height.default.250}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.250}",
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "accent": {
-        "value": {
-          "fontFamily": "{typography.font.text}",
-          "fontWeight": "{typography.font-weight.text.medium}",
-          "fontSize": "{typography.font-size.250}",
-          "lineHeight": "{typography.line-height.default.250}",
-          "letterSpacing": 0,
-          "paragraphSpacing": "{typography.paragraph-spacing.250}",
           "textCase": "none",
           "textDecoration": "none"
         },
