@@ -124,20 +124,24 @@
     }
   },
   "canyon": {
-    "100": {
+    "0": {
       "value": "#FFE2CF",
       "type": "color"
     },
-    "200": {
+    "100": {
       "value": "#FFBC90",
       "type": "color"
     },
-    "300": {
+    "200": {
       "value": "#FF9752",
       "type": "color"
     },
-    "400": {
+    "300": {
       "value": "#FE6601",
+      "type": "color"
+    },
+    "400": {
+      "value": "#FE4701",
       "type": "color"
     },
     "500": {
@@ -147,7 +151,7 @@
     "600": {
       "value": "#8E3900",
       "type": "color"
-    },
+   },
     "700": {
       "value": "#602600",
       "type": "color"
