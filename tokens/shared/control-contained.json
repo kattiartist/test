@@ -41,11 +41,11 @@
           "type": "number"
         },
         "padding-horizontal": {
-          "value": "{spacing.350}",
+          "value": "{spacing.250}",
           "type": "number"
         },
         "padding-vertical": {
-          "value": "{spacing.350}",
+          "value": "{spacing.250}",
           "type": "number"
         },
         "gap": {
