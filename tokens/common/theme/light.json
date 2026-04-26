@@ -53,6 +53,12 @@
     "brand-bright": {
       "value": "{canyon.400}",
       "type": "color"
+   }
+  },
+  "background": {
+    "brand-secondary": {
+      "value": "{canyon.600}",
+      "type": "color"
     },
     "neutral-bright": {
       "value": "{ground.600}",
