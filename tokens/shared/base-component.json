@@ -147,8 +147,18 @@
     "400": {
       "frame": {
         "min-size": {
-          "value": "{size.500}",
+          "value": "{size.540}",
           "type": "number"
+        },
+        "label": {
+          "style": {
+            "value": "accent",
+            "type": "other"
+          },
+          "size": {
+            "value": "500",
+            "type": "other"
+          }
         }
       },
       "icon": {
