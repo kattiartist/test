@@ -51,11 +51,11 @@
   },
   "background": {
     "brand-bright": {
-      "value": "{canyon.400}",
+      "value": "{canyon.300}",
       "type": "color"
   },
     "brand-secondary": {
-      "value": "{canyon.600}",
+      "value": "{canyon.400}",
       "type": "color"
     },
     "neutral-bright": {
@@ -151,7 +151,7 @@
       "type": "color"
     },
     "brand-primary": {
-      "value": "{canyon.400}",
+      "value": "{canyon.300}",
       "type": "color"
    },
     "brand-secondary": {
