@@ -32,6 +32,10 @@
       "value": "{sun.400}",
       "type": "color"
     },
+    "warning-secondary": {
+      "value": "{sun.200}",
+      "type": "color"
+    },
     "negative-primary": {
       "value": "{fire.400}",
       "type": "color"
