@@ -275,6 +275,19 @@
           "letterSpacing": 0,
           "paragraphSpacing": "{typography.paragraph-spacing.250}",
           "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-underline": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.medium}",
+          "fontSize": "{typography.font-size.250}",
+          "lineHeight": "{typography.line-height.default.250}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.250}",
+          "textCase": "none",
           "textDecoration": "underline"
         },
         "type": "typography"
