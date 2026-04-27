@@ -9,7 +9,7 @@
       "type": "color"
     },
     "secondary-dark": {
-      "value": "{ground.400}",
+      "value": "{volcano.400}",
       "type": "color"
     },
     "tertiary": {
@@ -71,7 +71,7 @@
       "type": "color"
     },
     "secondary-dark": {
-      "value": "{ground.400}",
+      "value": "{volcano.400}",
       "type": "color"
     },
     "brand-pale": {
