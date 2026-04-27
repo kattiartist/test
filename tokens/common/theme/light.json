@@ -66,6 +66,10 @@
       "value": "{ground.600}",
       "type": "color"
     },
+    "secondary-dark": {
+      "value": "{ground.400}",
+      "type": "color"
+    },
     "brand-pale": {
       "value": "{canyon.100}",
       "type": "color"
