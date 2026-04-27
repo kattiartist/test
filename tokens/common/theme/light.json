@@ -8,6 +8,10 @@
       "value": "{volcano.500}",
       "type": "color"
     },
+    "secondary-dark": {
+      "value": "{ground.400}",
+      "type": "color"
+    },
     "tertiary": {
       "value": "{ground.400}",
       "type": "color"
