@@ -275,7 +275,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": "{typography.paragraph-spacing.250}",
           "textCase": "none",
-          "textDecoration": "none"
+          "textDecoration": "underline"
         },
         "type": "typography"
       }
