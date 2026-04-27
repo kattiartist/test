@@ -1,49 +1,5 @@
 {
   "rich-icon": {
-    "100": {
-      "frame": {
-        "min-size": {
-          "value": "{base-component.100.frame.min-size}",
-          "type": "number"
-        },
-        "border-width": {
-          "value": "{selection-control.300.frame.border-width}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{control-contained.100.frame.padding-vertical}",
-          "type": "number"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{selection-control.300.icon.size}",
-          "type": "number"
-        }
-      }
-    },
-    "200": {
-      "frame": {
-        "min-size": {
-          "value": "{base-component.200.frame.min-size}",
-          "type": "number"
-        },
-        "border-width": {
-          "value": "{selection-control.300.frame.border-width}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{control-contained.200.frame.padding-vertical}",
-          "type": "number"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{selection-control.300.icon.size}",
-          "type": "number"
-        }
-      }
-    },
     "300": {
       "frame": {
         "min-size": {
@@ -84,28 +40,6 @@
       "icon": {
         "size": {
           "value": "{selection-control.400.icon.size}",
-          "type": "number"
-        }
-      }
-    },
-    "500": {
-      "frame": {
-        "min-size": {
-          "value": "{base-component.500.frame.min-size}",
-          "type": "number"
-        },
-        "border-width": {
-          "value": "{selection-control.500.frame.border-width}",
-          "type": "number"
-        },
-        "padding-vertical": {
-          "value": "{control-contained.500.frame.padding-vertical}",
-          "type": "number"
-        }
-      },
-      "icon": {
-        "size": {
-          "value": "{selection-control.500.icon.size}",
           "type": "number"
         }
       }
