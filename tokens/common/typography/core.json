@@ -86,6 +86,10 @@
     },
     "font-weight": {
       "brand": {
+        "regular": {
+          "value": 400,
+          "type": "number"
+        },
         "semi-bold": {
           "value": 600,
           "type": "number"
