@@ -250,6 +250,19 @@
           "textDecoration": "none"
         },
         "type": "typography"
+    },
+      "accent-underline": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.medium}",
+          "fontSize": "{typography.font-size.300}",
+          "lineHeight": "{typography.line-height.default.300}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.300}",
+          "textCase": "none",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
       }
     },
     "Paragraph XS": {
