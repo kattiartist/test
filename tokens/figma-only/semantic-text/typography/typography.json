@@ -151,6 +151,19 @@
           "textDecoration": "none"
         },
         "type": "typography"
+      },
+      "light": {
+        "value": {
+          "fontFamily": "{typography.font.brand}",
+          "fontWeight": "{typography.font-weight.brand.regular}",
+          "fontSize": "{typography.font-size.500}",
+          "lineHeight": "{typography.line-height.default.500}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{typography.paragraph-spacing.0}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
       }
     },
     "Paragraph XL": {
