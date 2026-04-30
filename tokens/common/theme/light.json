@@ -21,7 +21,7 @@
       "type": "color"
     },
     "brand-primary": {
-      "value": "{canyon.400}",
+      "value": "{canyon.300}",
       "type": "color"
    },
     "brand-secondary": {
